@@ -1,14 +1,5 @@
 # Lark - a modern parsing library for Python  
 
-lots of  
-stuff
-
-more
-stuff
-
-and even more \
-stuff
-
 Parse any context-free grammar, FAST and EASY!
 
 **Beginners**: Lark is not just another parser. It can parse any grammar you throw at it, no matter how complicated or ambiguous, and do so efficiently. It also constructs a parse-tree for you, without additional code on your part.
