@@ -1,4 +1,13 @@
-# Lark - a modern parsing library for Python
+# Lark - a modern parsing library for Python  
+
+lots of  
+stuff
+
+more
+stuff
+
+and even more \
+stuff
 
 Parse any context-free grammar, FAST and EASY!
 
